@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\objektiIKlase\objektiIKlase\obj\Debug\objektiIKlase.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\objektiIKlase\objektiIKlase\obj\Debug\objektiIKlase.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\objektiIKlase\objektiIKlase\bin\Debug\objektiIKlase.exe.config
+C:\Users\3.D\source\repos\objektiIKlase\objektiIKlase\bin\Debug\objektiIKlase.exe
+C:\Users\3.D\source\repos\objektiIKlase\objektiIKlase\bin\Debug\objektiIKlase.pdb
+C:\Users\3.D\source\repos\objektiIKlase\objektiIKlase\obj\Debug\objektiIKlase.exe
+C:\Users\3.D\source\repos\objektiIKlase\objektiIKlase\obj\Debug\objektiIKlase.pdb
